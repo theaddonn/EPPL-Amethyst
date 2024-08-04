@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.12)
 
 # Mod Options
-project(Pistension CXX ASM_NASM)
+project(EPPL CXX ASM_NASM)
 set(MOD_VERSION "0.1.0")
-set(MOD_AUTHOR "MaxRM, Adrian8115")
+set(MOD_AUTHOR "Adrian8115, MaxRM")
 
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} /await")
