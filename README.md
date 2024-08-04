@@ -1,5 +1,5 @@
 # EPPL (Extended Piston Push Limit)
-This is a port of MaxRM's EPPL mod to Amethyst.
+This is a port of [MaxRM's EPPL mod](https://github.com/Max-RM/Extend-PistonPushLimit-for-MCBE) to Amethyst.
 
 A Minecraft Bedrock mod that removes the piston push limit entirely.
 Well... not really much more to say
